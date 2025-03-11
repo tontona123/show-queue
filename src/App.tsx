@@ -1,21 +1,14 @@
 import React from "react";
-import "./index.css";
-import EduRules from "./components/rules";
-import Edupractice from "./components/self-practice";
-import Eduwork from "./components/request-work";
-import Eduborrowing from "./components/borrowing";
+import QueueDisplay from "./components/QueueDisplay";
+import QueueDisplay2 from "./components/QueueDisplay2";
 
-const App = () => {
+function App() {
   return (
-    <div>
-      <h1>Welcome to My Project</h1>
-      <p>This is the original version of App.tsx.</p>
-      <EduRules/>
-      <Edupractice/>
-      <Eduwork/>
-      <Eduborrowing/>
+    <div className="flex items-center justify-center min-h-screen bg-gray-100">
+      <QueueDisplay />
+      <QueueDisplay2 />
     </div>
   );
-};
+}
 
 export default App;
