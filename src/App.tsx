@@ -5,7 +5,7 @@ import QueueDisplay2 from "./components/QueueDisplay2";
 function App() {
   return (
     <div className="flex items-center justify-center min-h-screen bg-gray-100">
-      <QueueDisplay />
+   
       <QueueDisplay2 />
     </div>
   );
