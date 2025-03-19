@@ -1,0 +1,328 @@
+[
+  {
+    "reservation_detail": {
+      "reservation_id": 108,
+      "booking_id": 88,
+      "start_time": "2025-03-17 09:00:00",
+      "end_time": "2025-03-17 17:00:00",
+      "reservation_note": "1",
+      "reservation_status": 16,
+      "reservation_new_request": null,
+      "reservation_booking_index": 1,
+      "booking_year": 2025,
+      "booking_number_by_year": 49,
+      "service_id": 1,
+      "service_name": "การเรียน/การสอน",
+      "service_symbol": "L",
+      "booking_name": "test 26",
+      "booking_purpose": "การอบรม",
+      "booking_participant": {
+        "booking_id": 88,
+        "department_id": 1,
+        "educator": 1,
+        "student": 1,
+        "student_year": 4,
+        "staff": null,
+        "other": {},
+        "note": null,
+        "resident": null
+      }
+    },
+    "reservation_room": [
+      { "room_id": "B05", "note": "2" },
+      { "room_id": "B06", "note": "3" }
+    ],
+    "reservation_item": [
+      {
+        "reservation_item_id": 329,
+        "product_id": 71,
+        "amount": 1,
+        "reservation_item_list": null
+      },
+      {
+        "reservation_item_id": 330,
+        "product_id": 77,
+        "amount": 6,
+        "reservation_item_list": null
+      }
+    ],
+    "reservation_patient": {
+      "patient_detail": "",
+      "male": 0,
+      "male_lower_age": 0,
+      "male_upper_age": 50,
+      "female": 0,
+      "female_lower_age": 0,
+      "female_upper_age": 50,
+      "attachment": null
+    }
+  },
+  {
+    "reservation_detail": {
+      "reservation_id": 117,
+      "booking_id": 93,
+      "start_time": "2025-03-19 09:00:00",
+      "end_time": "2025-03-19 11:00:00",
+      "reservation_note": null,
+      "reservation_status": 16,
+      "reservation_new_request": null,
+      "reservation_booking_index": 2,
+      "booking_year": 2025,
+      "booking_number_by_year": 53,
+      "service_id": 1,
+      "service_name": "การเรียน/การสอน",
+      "service_symbol": "L",
+      "booking_name": "SimCase",
+      "booking_purpose": "การอบรม",
+      "booking_participant": {
+        "booking_id": 93,
+        "department_id": 26,
+        "educator": 30,
+        "student": null,
+        "student_year": null,
+        "staff": 10,
+        "other": {},
+        "note": null,
+        "resident": null
+      }
+    },
+    "reservation_room": [
+      { "room_id": "B30", "note": "จัดเก้าอี้ 30 ที่นั่ง" },
+      { "room_id": "SIM4", "note": "" },
+      { "room_id": "SIM5", "note": "" },
+      { "room_id": "SIM3", "note": "" },
+      { "room_id": "SIM0", "note": "" },
+      { "room_id": "SIM2", "note": "" },
+      { "room_id": "SIM1", "note": "" }
+    ],
+    "reservation_item": [
+      {
+        "reservation_item_id": 362,
+        "product_id": 1,
+        "amount": 1,
+        "reservation_item_list": null
+      },
+      {
+        "reservation_item_id": 363,
+        "product_id": 72,
+        "amount": 1,
+        "reservation_item_list": null
+      },
+      {
+        "reservation_item_id": 364,
+        "product_id": 73,
+        "amount": 1,
+        "reservation_item_list": null
+      },
+      {
+        "reservation_item_id": 365,
+        "product_id": 74,
+        "amount": 1,
+        "reservation_item_list": null
+      },
+      {
+        "reservation_item_id": 366,
+        "product_id": 76,
+        "amount": 1,
+        "reservation_item_list": null
+      }
+    ],
+    "reservation_patient": {
+      "patient_detail": "",
+      "male": 0,
+      "male_lower_age": 0,
+      "male_upper_age": 50,
+      "female": 0,
+      "female_lower_age": 0,
+      "female_upper_age": 50,
+      "attachment": null
+    }
+  },
+  {
+    "reservation_detail": {
+      "reservation_id": 121,
+      "booking_id": 96,
+      "start_time": "2025-03-13 09:00:00",
+      "end_time": "2025-03-13 17:00:00",
+      "reservation_note": null,
+      "reservation_status": 13,
+      "reservation_new_request": null,
+      "reservation_booking_index": 1,
+      "booking_year": 2025,
+      "booking_number_by_year": 56,
+      "service_id": 1,
+      "service_name": "การเรียน/การสอน",
+      "service_symbol": "L",
+      "booking_name": "สอบortho",
+      "booking_purpose": "การเรียน/การสอน",
+      "booking_participant": {
+        "booking_id": 96,
+        "department_id": 17,
+        "educator": null,
+        "student": 8,
+        "student_year": 6,
+        "staff": null,
+        "other": {},
+        "note": null,
+        "resident": null
+      }
+    },
+    "reservation_room": [
+      { "room_id": "B30", "note": "" },
+      { "room_id": "B18", "note": "" },
+      { "room_id": "B08", "note": "" },
+      { "room_id": "SIM1", "note": "" },
+      { "room_id": "SIM2", "note": "" },
+      { "room_id": "SIM4", "note": "" },
+      { "room_id": "SIM3", "note": "" },
+      { "room_id": "SIM5", "note": "" },
+      { "room_id": "SIM0", "note": "" },
+      { "room_id": "B03", "note": "" },
+      { "room_id": "B19", "note": "" },
+      { "room_id": "B27", "note": "" }
+    ],
+    "reservation_item": [],
+    "reservation_patient": {
+      "patient_detail": "",
+      "male": 0,
+      "male_lower_age": 0,
+      "male_upper_age": 50,
+      "female": 0,
+      "female_lower_age": 0,
+      "female_upper_age": 50,
+      "attachment": null
+    }
+  },
+  {
+    "reservation_detail": {
+      "reservation_id": 133,
+      "booking_id": 108,
+      "start_time": "2025-03-17 09:00:00",
+      "end_time": "2025-03-17 17:00:00",
+      "reservation_note": "ขอเก้าอี้",
+      "reservation_status": 12,
+      "reservation_new_request": null,
+      "reservation_booking_index": 1,
+      "booking_year": 2025,
+      "booking_number_by_year": 68,
+      "service_id": 1,
+      "service_name": "การเรียน/การสอน",
+      "service_symbol": "L",
+      "booking_name": "น้องต้น",
+      "booking_purpose": "การอบรม",
+      "booking_participant": {
+        "booking_id": 108,
+        "department_id": 9,
+        "educator": 1,
+        "student": 1,
+        "student_year": 4,
+        "staff": null,
+        "other": {},
+        "note": null,
+        "resident": 1
+      }
+    },
+    "reservation_room": [
+      { "room_id": "B10", "note": "" },
+      { "room_id": "B09", "note": "" },
+      { "room_id": "B11", "note": "123" }
+    ],
+    "reservation_item": [
+      {
+        "reservation_item_id": 420,
+        "product_id": 1,
+        "amount": 1,
+        "reservation_item_list": null
+      },
+      {
+        "reservation_item_id": 421,
+        "product_id": 73,
+        "amount": 1,
+        "reservation_item_list": null
+      },
+      {
+        "reservation_item_id": 422,
+        "product_id": 131,
+        "amount": 1,
+        "reservation_item_list": null
+      },
+      {
+        "reservation_item_id": 423,
+        "product_id": 130,
+        "amount": 2,
+        "reservation_item_list": null
+      },
+      {
+        "reservation_item_id": 424,
+        "product_id": 71,
+        "amount": 1,
+        "reservation_item_list": null
+      }
+    ],
+    "reservation_patient": {
+      "patient_detail": "",
+      "male": 1,
+      "male_lower_age": 0,
+      "male_upper_age": 50,
+      "female": 1,
+      "female_lower_age": 0,
+      "female_upper_age": 50,
+      "attachment": null
+    }
+  },
+  {
+    "reservation_detail": {
+      "reservation_id": 134,
+      "booking_id": 109,
+      "start_time": "2025-03-13 09:00:00",
+      "end_time": "2025-03-13 17:00:00",
+      "reservation_note": null,
+      "reservation_status": 12,
+      "reservation_new_request": null,
+      "reservation_booking_index": 1,
+      "booking_year": 2025,
+      "booking_number_by_year": 69,
+      "service_id": 1,
+      "service_name": "การเรียน/การสอน",
+      "service_symbol": "L",
+      "booking_name": "1234",
+      "booking_purpose": "การเรียน/การสอน",
+      "booking_participant": {
+        "booking_id": 109,
+        "department_id": 7,
+        "educator": 1,
+        "student": 1,
+        "student_year": 4,
+        "staff": null,
+        "other": {},
+        "note": null,
+        "resident": 1
+      }
+    },
+    "reservation_room": [{ "room_id": "B04", "note": "" }],
+    "reservation_item": [
+      {
+        "reservation_item_id": 425,
+        "product_id": 121,
+        "amount": 1,
+        "reservation_item_list": null
+      },
+      {
+        "reservation_item_id": 426,
+        "product_id": 122,
+        "amount": 1,
+        "reservation_item_list": null
+      }
+    ],
+    "reservation_patient": {
+      "patient_detail": "",
+      "male": 0,
+      "male_lower_age": 0,
+      "male_upper_age": 50,
+      "female": 0,
+      "female_lower_age": 0,
+      "female_upper_age": 50,
+      "attachment": null
+    }
+  }
+]
